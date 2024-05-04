@@ -1,3 +1,7 @@
+# Recently Watched Anime
+
+![bangumi-anmie](https://github.com/mrzhu666/bangumi-anime/blob/main/status.svg)
+
 ### Hi there 👋
 
 <!--
