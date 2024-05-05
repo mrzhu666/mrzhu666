@@ -6,7 +6,6 @@
     <a href="" target="_blank"><img src="https://github.com/mrzhu666/bangumi-anime/blob/main/status.svg" alt="bangumi Status" width="85%"/></a>
 </p>
 
-![bangumi-anmie](https://github.com/mrzhu666/bangumi-anime/blob/main/status.svg)
 
 ### Hi there 👋
 
